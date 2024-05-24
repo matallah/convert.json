@@ -16,5 +16,5 @@ java -jar convert.json-1.0-SNAPSHOT.jar "DSV input 1.txt" ","
 ```
 ## Dependencies
 
-Apache Commons CSV: 1.8
-Jackson Databind: X.X.X
+* Apache Commons CSV: 1.8
+* Jackson Databind: X.X.X
